@@ -3,7 +3,7 @@ var express = require('express');
 var app = express();
 
 app.get('/', function(req, res){
-  res.redirect('https://ipfs.io/ipfs/QmSByV6XEz96cP5EhEHYcsp6YqWqyEsyTSbqLSRa4A9RDm');
+  res.redirect('http://192.168.0.1/mmc2/TTV/Comedy/JALALS_SNAKE_PRANK%5BListenVid.com%5D.mp4');
 });
 
 /* istanbul ignore next */
